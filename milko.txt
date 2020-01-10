@@ -1,10 +1,10 @@
 <span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Now is better than never.
-Although never is often better than *right* now.</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">By ‘reasoning’ I mean computation. But to compute is to unite a number of things added together into a single total, or to know the remainder when one thing is taken away from another. (Hobbes, De corpore 1.2</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>Hey! My name is Milko Rodríguez. I like to write code, learn about new things, and solve problems. 
+I am a Self-Taught Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
