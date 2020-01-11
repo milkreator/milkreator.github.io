@@ -7,10 +7,10 @@ Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag
 <p>I am a Self-Taught Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I like challenging myself and sharing what I am learning. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p> You can visit my <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> <p>and my other profiles, here: </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> You can visit my <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> <p> and my other profiles, here: </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p> <br> <a href="href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> <a </p>
-<p>href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> </p>and 
+<p>href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> </p> and 
 <p><br> <a href="https://github.com/milkreator">github</a>.</p>
 
 If you would like to get in touch with me, 
