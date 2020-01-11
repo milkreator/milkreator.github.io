@@ -9,7 +9,7 @@ Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag
 
 <p>You can visit my other profiles, here: </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> <a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> and <br> <a href="https://github.com/milkreator">github</a>.</p>
+<p> <br> <a href="href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> <a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> and <br> <a href="https://github.com/milkreator">github</a>.</p>
 
 If you would like to get in touch with me, 
 <!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:milko.cra@gmail.com">milko.cra@gmail.com</a>.
