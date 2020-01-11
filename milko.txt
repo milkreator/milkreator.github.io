@@ -10,7 +10,7 @@ Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag
 <p> You can visit my <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> <p> and my other profiles, here: </p> 
 
 <p> <br> <a href="href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> <a </p>
-<p>href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> </p> and 
+<p><a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> </p> and 
 <p><br> <a href="https://github.com/milkreator">github</a>.</p>
 
 If you would like to get in touch with me, 
