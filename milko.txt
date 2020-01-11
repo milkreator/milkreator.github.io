@@ -4,12 +4,12 @@ My favorite code quote, "<span id="k">Programs should be written for people to r
 
 Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<p> I like to write code, learn about new things, and solve problems.</p>
 <p>I am a Self-Taught Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I like challenging myself and sharing what I am learning. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can learn more about me on my <a href="https://www.gitshowcase.com/milkreator"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-<p>You can visit my other profiles, here: </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> You can visit my <a href="">tech-blog</a>, my portfolio  <a href="https://www.gitshowcase.com/milkreator"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+<p>And my other profiles, here: </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p> <br> <a href="href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> <a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> and <br> <a href="https://github.com/milkreator">github</a>.</p>
 
