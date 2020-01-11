@@ -1,6 +1,6 @@
 <span id="a">Milko@Rodríguez</span>:<span id="b">~</span><span id="c">$</span> cd Milko/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">Milko@Rodríguez</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->milko.txt<br/><br/>
-My favorite code quote, "<span id="k">By ‘reasoning’ I mean computation. But to compute is to unite a number of things added together into a single total, or to know the remainder when one thing is taken away from another. (Hobbes, De corpore 1.2)</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">Programs should be written for people to read, and only incidentally for machines to execute.</span>". <!-- sjkfhskjf -->
 
 <p>Hey! My name is Milko Rodríguez. I like to write code, learn about new things, and solve problems. 
 I am a Self-Taught Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
