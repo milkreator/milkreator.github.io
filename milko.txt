@@ -7,9 +7,7 @@ Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag
 I am a Self-Taught Python Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I like challenging myself and sharing what I am learning. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p> You can visit my pythonist <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> <p> and my other profiles <br> </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->  <p><a href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> </p>
-<p><a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> </p> and 
-<p><br> <a href="https://github.com/milkreator">github</a>.</p>
+<p> You can visit my pythonist <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->  <p> and my other profiles: <br> <a href="https://twitter.com/Milko_Rodriguez"> twitter</a> <br> <a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> and <br> <a href="https://github.com/milkreator">github</a>.</p>
 
 If you would like to get in touch with me, 
 <!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:milko.cra@gmail.com">milko.cra@gmail.com</a>.
