@@ -9,7 +9,7 @@ Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglag
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 My favorite code quote, <span id="k">"Programs should be written for people to read, and only incidentally for machines to execute."</span> <!-- sjkfhskjf -->
 
-<p>Hey There! My name is Milko Rodríguez.</p> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Hey There! My name is Milko Rodríguez.</p> </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p> I am a Self-Taught Python Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
