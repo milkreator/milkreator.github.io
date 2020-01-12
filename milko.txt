@@ -4,10 +4,10 @@ My favorite code quote, <span id="k">"Programs should be written for people to r
 
 Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<p>I am a Self-Taught Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+I am a Self-Taught Python Programmer who also have a BA in Philosophy.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I like challenging myself and sharing what I am learning. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p> You can visit my <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> <p> and my other profiles <br> </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->  <p><ahref="https://twitter.com/Milko_Rodriguez">twitter</a> <br> </p>
+<p> You can visit my pythonist <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> <p> and my other profiles <br> </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->  <p><a href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> </p>
 <p><a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> </p> and 
 <p><br> <a href="https://github.com/milkreator">github</a>.</p>
 
