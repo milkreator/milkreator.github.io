@@ -1,6 +1,6 @@
 <span id="a">Milko@Rodríguez</span>:<span id="b">~</span><span id="c">$</span> cd Milko/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">Milko@Rodríguez</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->milko.txt<br/><br/>
-My favorite code quote, "<span id="k">Programs should be written for people to read, and only incidentally for machines to execute.</span>". <!-- sjkfhskjf -->
+My favorite code quote, <span id="k">"Programs should be written for people to read, and only incidentally for machines to execute."</span> <!-- sjkfhskjf -->
 
 Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
@@ -8,8 +8,7 @@ Hey There! My name is Milko Rodríguez.<!-- laglaglaglaglaglaglaglaglaglaglaglag
 <p> I like challenging myself and sharing what I am learning. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p> You can visit my <a href="">tech-blog</a>, my<a href="https://www.gitshowcase.com/milkreator"> portfolio</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf --> <p> and my other profiles, here: </p> 
-
-<p> <br> <a href="href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> <a </p>
+<p> <br> <a href="href="https://twitter.com/Milko_Rodriguez">twitter</a> <br> </p>
 <p><a href="https://www.linkedin.com/in/milkorodriguez">linkedin</a> </p> and 
 <p><br> <a href="https://github.com/milkreator">github</a>.</p>
 
