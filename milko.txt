@@ -1,7 +1,7 @@
 <span id="a">Milko@Rodríguez</span>:<span id="b">~</span><span id="c">$</span> cd Milko/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">Milko@Rodríguez</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->milko.txt<br/><br/>
 
-My favorite code quote, <span id="k">"Programs should be written for people to read, and only incidentally for machines to execute."</span> <!-- sjkfhskjf -->
+My favorite code quote, <span id="k">"In God we trust; all others bring data."</span> <!-- sjkfhskjf -->
 
 <p>Hey There! My name is Milko Rodríguez.</p> </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
