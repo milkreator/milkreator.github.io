@@ -18,7 +18,7 @@ a {
 }
 
 #a {
-	color: #0f0;
+	color: #57cc8a;
 }
 
 #c {
@@ -38,7 +38,7 @@ a {
 }
 
 @keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
+    	0%  { color:  #57cc8a; }
+    	50% { color:  #57cc8a; }
     	99% { color: black; }
 }
