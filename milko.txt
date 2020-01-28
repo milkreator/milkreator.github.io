@@ -15,7 +15,7 @@ My favorite code quote, <span id="k">"In God we trust; all others bring data."</
 If you would like to get in touch with me, 
 <!-- slightdelayhere--> feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:milko.cra@gmail.com">milko.cra@gmail.com</a>.
 
-<p>Cheers!</p>
+<p>Sapere aude!</p>
 
 <span id="a">Milko@Rodríguez</span>:<span id="b">~</span><span id="c">$</span> exit
 
